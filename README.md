@@ -1,5 +1,20 @@
 # Dormitory_Management_System
-The Dormitory is where I store source code, this project is written with eclipse ide and java version 18.0.1.1
-DormitoryManagement.jar is an executable file, you should use java versions equal to or higher than the version I use to run the program.
-And the last one is the report.
-Thank you for reading.
+## Introduction
+- The system is built to manage registration and login at dormitory for student
+- Frontend : Java Swing
+- Backend : Java Core
+
+## Feature
+- Students can register for dormitory accommodation
+- Students can login to dormitory system
+- Students can manage personal information 
+
+## Overview
+![main](https://github.com/tien2114988/Dormitory-Management-System/assets/110327876/a818fdd0-f258-4626-a1e4-b0fed50ca3d5)
+
+
+## Video Demo
+
+
+
+## How to run
