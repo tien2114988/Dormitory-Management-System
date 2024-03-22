@@ -27,13 +27,13 @@
 ![image](https://github.com/tien2114988/Dormitory-Management-System/assets/110327876/74b5c2c6-34e5-409f-8e89-e8b7a1c41ea9)
 
 - Student Information 
-![alt text](image.png)
+![image](https://github.com/tien2114988/Dormitory-Management-System/assets/110327876/4f0f351a-3fb7-4c64-a962-d66ed3181d05)
 
 - Room Information 
-![alt text](image-1.png)
+![image-1](https://github.com/tien2114988/Dormitory-Management-System/assets/110327876/ff9afd5a-2943-4002-bb84-a9e261e8c4b1)
 
 - Change Password 
-![alt text](image-2.png)
+![image-2](https://github.com/tien2114988/Dormitory-Management-System/assets/110327876/3f7bddf1-63d5-4ae5-8434-8d0de889b74c)
 
 ## Video Demo
 https://www.youtube.com/watch?v=9n-Rwp1IROM
