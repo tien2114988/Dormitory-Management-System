@@ -36,7 +36,9 @@
 ![alt text](image-2.png)
 
 ## Video Demo
-
+https://www.youtube.com/watch?v=9n-Rwp1IROM
 
 
 ## How to run
+- Install JRE
+- Open DormitoryManagement.jar
